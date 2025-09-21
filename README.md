@@ -1,2 +1,2 @@
-# 半成品 MurderMystery Author by TheGoodBoys
-
+# 半成品 MurderMystery 
+## Author: [TheGoodBoys]
