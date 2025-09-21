@@ -1,0 +1,3 @@
+name: MurderMystery
+version: '${version}'
+main: cn.thegoodboys.murdermystery.MurderMystery
